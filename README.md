@@ -1,4 +1,4 @@
-# This is repository contains the presenation and homeowrk of the Introduction to Git & GitHub wrokshop 
+# This is repository contains the presentation and homeowrk of the Introduction to Git & GitHub wrokshop 
 
 ### Reminders
 1) Always work in VS Code
