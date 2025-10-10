@@ -21,6 +21,17 @@
 For the first part you will work on the local copy of the repository in your laptop.
 
 1) Check the content of the `.gitignore` file. If you want to add files or folders in your local repository that you don't want git to track, than add the names to the `.gitignore` file.
-2) Make sure to not track or add information which is sensitive.  
+2) Make sure to not track or add information which is sensitive.
+
+### Create data
+
+1) Create and switch to the branch `data`.
+2) Create a folder name `output`. 
+3) Open the `generate_data.py` script and compile it. This will generate a `csv` data file in the folder `output`. 
+3) Make sure that `git` does not track the folder `output` and its contents.
+
+
+
+
 
 
