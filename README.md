@@ -20,11 +20,7 @@
 
 For the first part you will work on the local copy of the repository in your laptop.
 
-1) Crete a `.gitignore` file with a text editor and open it.
-2) Type the name of the power point presentation in that file, and save it. 
-3) Stage and commit the changes:
+1) Check the content of the `.gitignore` file. If you want to add files or folders in your local repository that you don't want git to track, than add the names to the `.gitignore` file.
+2) Make sure to not track or add information which is sensitive.  
 
-`git add .gitignore` 
-
-`git commit -m "Created  a .gitignore file"`
 
