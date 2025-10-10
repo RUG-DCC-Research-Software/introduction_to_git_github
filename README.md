@@ -1,4 +1,4 @@
-# Introduction to Git & GitHub wrokshop 
+# Introduction to Git & GitHub Workshop
 
 ### Reminders
 1) Always work in VS Code
