@@ -5,9 +5,9 @@
 2) Make sure that you have a GitHub account and created a ssh key
 3) On VS code, make sure that;
 
-    Source Control pane works 
+    `Source Control` pane works 
 
-    git graph extension onsatlled on VS Code
+    `git graph` extension is installed on VS Code
 
 ### Steps
 1) On the GitHub repository click on the green drop down menu on the right called <> Code.
@@ -66,6 +66,7 @@ Activate the `Source Control` pane and launch the `git graph` extension. It will
 4) Stage & commit the small changes frequently. 
 5) Compare differnet branches and compare the status of the file(s) between different commits and stages.
 6) if your script(s) works as desired, the merge your branch to `master`.
+
 
 
 
