@@ -22,3 +22,9 @@ For the first part you will work on the local copy of the repository in your lap
 
 1) Crete a `.gitignore` file with a text editor and open it.
 2) Type the name of the power point presentation in that file, and save it. 
+3) Stage and commit the changes:
+
+`git add .gitignore` 
+
+`git commit -m "Created  a .gitignore file"`
+
