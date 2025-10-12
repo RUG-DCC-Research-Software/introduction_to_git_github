@@ -10,7 +10,7 @@
     `git graph` extension is installed on VS Code
 
 ### Steps
-1) On the GitHub repository click on the green drop down menu on the right called <> Code.
+1) On the GitHub repository click on the green drop down menu on the right called <Code>.
 2) Copy the HTTPS addres of the repository to clone
 3) On your terminal in VS Code, to a directory of your choice, clone this repository by running the following command:
 
@@ -66,6 +66,7 @@ Activate the `Source Control` pane and launch the `git graph` extension. It will
 4) Stage & commit the small changes frequently. 
 5) Compare differnet branches and compare the status of the file(s) between different commits and stages.
 6) if your script(s) works as desired, the merge your branch to `master`.
+
 
 
 
