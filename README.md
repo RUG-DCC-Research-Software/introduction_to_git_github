@@ -1,24 +1,31 @@
 # Introduction to Git & GitHub Workshop
 
+This repository contains the followings:
+- The presenation given on 21/10/2025 during the DCC Workshop: Introduction to Git & GitHub Workshop part 1
+- A README file where the first part of homework is explained
+- A data file to use for exercise purpose.
+
+
 ### Reminders
-1) Always work in VS Code
-2) Make sure that you have a GitHub account and created a ssh key
-3) On VS code, make sure that;
+1) Make sure that you have a GitHub account and created a ssh key
+2) **Optional**: On VS code, make sure that;
 
     `Source Control` pane works 
 
     `git graph` extension is installed on VS Code
+
+If you are using another IDE such as PyChram or a differnt GUI, then install an extension equivalent to `git graph`.
 
 ### Steps
 1) On the GitHub repository click on the green drop down menu on the right called <> Code.
 2) Copy the HTTPS addres of the repository to clone
 3) On your terminal in VS Code, to a directory of your choice, clone this repository by running the following command:
 
-`git clone https://github.com/burcube/kapteyn_git_workshop.git`
+`git clone https://github.com/RUG-DCC-Research-Software/introduction_to_git_github.git`
 
 4) Check the content of the repository. You should see the following files and folders:
 
-`07102025-Introduction_to_git_kapteyn.ppx`: The presentation of the forst half of training.
+`20102025-Introduction_to_git_github.ppx`: The presentation of the forst half of training.
 
 `README.md` : READMe file that explains the steps of the first home work.
 
@@ -31,12 +38,14 @@ For the first part you will work on the local copy of the repository in your lap
 
 The goal of the home work is for you to get familair with daily git workflow that consists of frequent commits and , working with branches and monitoring the commit history. You will use the `data.csv` file, making basic statistical analysis and visualize them. 
 
-You can use the presentation or the other sources provided by your supervisor.
+You can use any programming language of your choice. The goal is not to assess your programming skills, but to simulate a simple work case that you might have in your project.
 
-Activate the `Source Control` pane and launch the `git graph` extension. It will visualize how your branches and commit history progress. Do not use the short cuts given in the `Source Control`, instead always type your commands in the terminal.
+You can use the presentation or the other sources to get help.
+
+**Optional**: In VS Code, or on the IDE you work with, activate the `Source Control` pane and launch the `git graph` extension. It will visualize how your branches and commit history progress. Do not use the short cuts given in the `Source Control`, instead always type your commands in the terminal.
 
 1) Check the content of the `.gitignore` file. If you want to add files or folders in your local repository that you don't want git to track, than add the names to the `.gitignore` file.
-2) Make sure to not track or add information which is sensitive.
+2) Make sure to not track or add sensitive information.
 
 ### Analyse data 1
 
