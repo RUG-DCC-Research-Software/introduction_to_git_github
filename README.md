@@ -1,7 +1,7 @@
 # Introduction to Git & GitHub Workshop
 
 This repository contains the followings:
-- The presenation given on 21/10/2025 during the DCC Workshop: Introduction to Git & GitHub Workshop part 1
+- The presentation given on 21/10/2025 during the DCC Workshop: Introduction to Git & GitHub Workshop part 1
 - A README file where the first part of homework is explained
 - A data file to use for exercise purpose.
 
