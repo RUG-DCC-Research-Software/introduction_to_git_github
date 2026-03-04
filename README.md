@@ -1,31 +1,32 @@
-# Introduction to Git & GitHub Workshop
+# Introduction to Git & GitHub Workshop - Homework
 
 This repository contains the followings:
-- The presentation given on 21/10/2025 during the DCC Workshop: Introduction to Git & GitHub Workshop part 1
+- The presentation given on 03/03/2026 during the DCC Workshop: Introduction to Git & GitHub Workshop part 1
 - A README file where the first part of homework is explained
 - A data file to use for exercise purpose.
 
 
 ### Reminders
-1) Make sure that you have a GitHub account and created a ssh key
+1) Make sure that you have a GitHub account. Make sure that you created a ssh key
 2) **Optional**: On VS code, make sure that;
 
     `Source Control` pane works 
 
     `git graph` extension is installed on VS Code
 
-If you are using another IDE such as PyChram or a differnt GUI, then install an extension equivalent to `git graph`.
+If you are using another IDE such as PyChram or a different GUI, then install an extension equivalent to `git graph`.
 
 ### Steps
 1) On the GitHub repository click on the green drop down menu on the right called <> Code.
-2) Copy the HTTPS addres of the repository to clone
+2) Copy the SHH address of the repository to clone
 3) On your terminal in VS Code, to a directory of your choice, clone this repository by running the following command:
 
-`git clone https://github.com/RUG-DCC-Research-Software/introduction_to_git_github.git`
+`git clone git@github.com:RUG-DCC-Research-Software/introduction_to_git_github.git` : Copy the SSH address since you have SSH key.
+
 
 4) Check the content of the repository. You should see the following files and folders:
 
-`20102025-Introduction_to_git_github.ppx`: The presentation of the forst half of training.
+`Introduction_to_git_github_part1_03032026.ppx`: The presentation of the first half of training.
 
 `README.md` : READMe file that explains the steps of the first home work.
 
